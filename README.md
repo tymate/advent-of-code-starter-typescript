@@ -34,15 +34,11 @@ yarn generate
 yarn generate --day 01
 ```
 
-### 3.a. Run a single day
+### 3. Run a single day
 
 ```shell
 yarn start
-```
-
-### 3.b. Run the dev server on a single day (try-hard mode)
-
-```shell
+# or, to keep process open and listen to changes
 yarn dev --day 01
 ```
 
