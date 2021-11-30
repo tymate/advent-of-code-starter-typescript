@@ -18,6 +18,8 @@ Fork it/clone it, and get started!
 
 ## How to
 
+![Animated gif demo](demo.gif)
+
 ### 1. Install dependencies
 
 ```shell
